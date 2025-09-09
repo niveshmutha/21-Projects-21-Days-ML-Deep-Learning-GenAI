@@ -1,0 +1,9 @@
+echo "# 21-Projects-21-Days-ML-Deep-Learning-GenAI" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/niveshmutha/21-Projects-21-Days-ML-Deep-Learning-GenAI.git
+git push -u origin main
+
+
